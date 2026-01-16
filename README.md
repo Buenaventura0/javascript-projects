@@ -1,1 +1,1 @@
-A place for JavaScript solutions of my own or projects programming logic models.
+A workshop for data structures and algorithms solutions of my own in JavaScript.
